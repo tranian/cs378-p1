@@ -1,0 +1,39 @@
+body {
+/*    color: hotpink;*/
+}
+
+.logo {
+	padding: 20px 0;
+}
+
+.header .desc {
+	color: rgb(253, 169, 51);
+}
+
+.header .bottle {
+	color: rgb(113, 32, 32);
+}
+
+.header {
+	padding: 40px 0;
+}
+
+/* test */
+.menu-item .price-and-add {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.menu-item price {
+	/* NOTE: consistent space for price */
+	flex-grow: 1;
+}
+
+.menu-item button {
+	min-width: 60px;
+}
+
+.menu-item img {
+	width: 200px;
+	height: 120px;
+}
