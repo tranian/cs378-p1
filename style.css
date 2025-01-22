@@ -8,6 +8,7 @@ body {
 
 .header .desc {
 	color: rgb(253, 169, 51);
+	font-family: 'Sofia';
 }
 
 .header .bottle {
@@ -15,7 +16,7 @@ body {
 }
 
 .header {
-	padding: 40px 0;
+	padding: 20px 0;
 }
 
 /* test */
